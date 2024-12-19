@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Temur Turayev
-- 🇺🇿 I’m from Uzbekistan 
+- 🇺🇿  I’m from Uzbekistan 
 - 👀 I’m interested in LLM, Python, AI and medicine 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on my new project studGPT
